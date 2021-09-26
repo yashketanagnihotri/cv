@@ -60,4 +60,9 @@ hr{
 #profile-pic{
     width:200px;
     border-radius:50%;
+    transition: 1s;
+}
+
+#profile-pic:hover{
+    width:220px;
 }
