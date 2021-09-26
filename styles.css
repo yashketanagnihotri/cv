@@ -12,7 +12,8 @@ a{
     text-decoration:none;
 }
 img{
-    border-radius: 50%;
+    width:150px;
+    border-radius:50%;
 }
 hr{
     border-style: none;
