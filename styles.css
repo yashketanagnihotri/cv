@@ -11,6 +11,9 @@ a{
     color:#0037ff;
     text-decoration:none;
 }
+img{
+    border-radius: 50%;
+}
 hr{
     border-style: none;
     border-top:dotted;
